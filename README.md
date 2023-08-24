@@ -8,7 +8,7 @@
 
 
 
-<font face="Cambria Math" color=black size=6>Research Experience</font>
+### <font face="Cambria Math" color=black size=6>Research Experience</font>
 
 <details>
 <summary>Expand to View</summary>
