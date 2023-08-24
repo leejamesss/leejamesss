@@ -4,11 +4,6 @@
 
 ![leejamesss's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=leejamesss&show_icons=true&theme=chartreuse-dark)
 
-<p align = "left">
-  <img src = "https://github-readme-streak-stats.herokuapp.com?user=leejamesss&theme=tokyonight&hide_border=true&include_all_commits=true&line_height=27">
-</p>
-
-
 <font face="Cambria Math" color=black size=4>**Jiatao Li** is a Peking University student with a passion for Knowledge Graph,Computer Graph,Searching Engine,NLP,Machine Learning,Text Mining and Big Data.He is working in the field of Big Data and its Application since 2022. Currently, he is studying as a undergraduate student in Peking University,China. Apart from study,he is also working as Research Assistant (RA) in Laboratory of Text Mining at Peking University. </font>
 
 
@@ -75,6 +70,9 @@ Information Management Foundation Textbook
 <font face="Cambria Math" color=black size=4>Email: 2200016651@stu.pku.edu.cn</font>
 </pre></details> 
 
+<p align = "left">
+  <img src = "https://github-readme-streak-stats.herokuapp.com?user=leejamesss&theme=tokyonight&hide_border=true&include_all_commits=true&line_height=27">
+</p>
 
 
 
