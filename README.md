@@ -4,7 +4,7 @@
 
 ![leejamesss's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=leejamesss&show_icons=true&theme=chartreuse-dark)
 
-<p align = "center">
+<p align = "left">
   <img src = "https://github-readme-streak-stats.herokuapp.com?user=leejamesss&theme=tokyonight&hide_border=true&include_all_commits=true&line_height=27">
 </p>
 
