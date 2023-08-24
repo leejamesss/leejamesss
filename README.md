@@ -70,9 +70,6 @@ Information Management Foundation Textbook
 <font face="Cambria Math" color=black size=4>Email: 2200016651@stu.pku.edu.cn</font>
 </pre></details> 
 
-<p align = "left">
-  <img src = "https://github-readme-streak-stats.herokuapp.com?user=leejamesss&theme=tokyonight&hide_border=true&include_all_commits=true&line_height=27">
-</p>
 
 
 
