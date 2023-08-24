@@ -41,7 +41,6 @@ Information Management Foundation Textbook
 2019 世界中学生运动会形象大使
 2020 21世纪报杯英语演讲比赛福建省亚军
 2020 21世纪报杯英语演讲比赛国赛二等奖
-2020 全国高中数学联赛决赛(省级赛区) 三等奖 
 </pre></details>
 
 ### <font face="Cambria Math" color=black size=6>Titles</font>
