@@ -17,7 +17,7 @@
 <pre>
 AI Knowledge Graph project
 Information Management Foundation Textbook 
-
+</pre></details>
 
 
 ### <font face="Cambria Math" color=black size=6>Languages and Tools:</font>
@@ -31,7 +31,7 @@ Information Management Foundation Textbook
 <pre>
 2023 天池BMW第三届黑客马拉松————虚拟协同合作赛道&总决赛 Rank1
 2023 北京大学黑客马拉松 WebGPU赛道 Rank2
-
+</pre></details>
 
 
 
@@ -44,7 +44,7 @@ Information Management Foundation Textbook
 2020 21世纪报杯英语演讲比赛福建省亚军
 2020 21世纪报杯英语演讲比赛国赛二等奖
 2020 全国高中数学联赛决赛(省级赛区) 三等奖 
-
+</pre></details>
 
 ### <font face="Cambria Math" color=black size=6>Titles</font>
 
