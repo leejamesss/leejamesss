@@ -8,7 +8,7 @@
 
 
 
-### <font face="Cambria Math" color=black size=6>Research Experience</font>
+### <font face="Cambria Math" color=black size=6>Project Experience</font>
 
 <details>
 <summary>Expand to View</summary>
@@ -29,6 +29,7 @@ Information Management Foundation Textbook
 <pre>
 2023 天池BMW第三届黑客马拉松————虚拟协同合作赛道&总决赛 Rank1
 2023 北京大学黑客马拉松 WebGPU赛道 Rank2
+Kaggle Competition:HousePrice Prediction Top1%
 </pre></details>
 
 
